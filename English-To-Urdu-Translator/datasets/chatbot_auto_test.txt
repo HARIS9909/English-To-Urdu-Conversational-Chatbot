@@ -1,0 +1,228 @@
+hello
+جاپان
+
+hi
+فٹ
+
+good morning
+صبح
+
+good evening
+شام
+
+good night
+اچھا رات
+
+how are you?
+تم کیسے ہو؟
+
+i am fine
+مجھے اچھا معلوم ہے۔
+
+thanks
+شکریہ۔
+
+please help
+مدد چاہتے ہیں
+
+sorry
+معذرت
+
+excuse me
+معاف کیجئے گا
+
+can you help me?
+تم مجھے مدد کر سکتے ہیں؟
+
+do you speak urdu?
+تم کر رہے ہو؟
+
+where is the bus stop?
+بس کہاں رک رہا ہے۔
+
+turn left
+روگردانی
+
+turn right
+براہ کرم
+
+go straight
+براہ راست
+
+turn back
+نظر انداز کریں۔
+
+near the station
+مقرب (فرشتے) اس کا مشاہده کرتے ہیں۔
+
+far from here
+یہاں سے دور
+
+please reduce the price
+قیمت کم کرو
+
+final rate?
+حتمی تعداد؟
+
+can you make it cheaper?
+آپ اسے سست کر سکتے ہیں؟
+
+this is my budget
+یہ میرا بجٹ ہے۔
+
+please be fair
+براہ کرم مناسب ہو
+
+sir, kindly wait
+صاحب، انتظار کرو
+
+madam, please speak slowly
+پاگل، آہستہ بات کریں۔
+
+water?
+پانی؟
+
+wifi?
+پاگل؟
+
+market?
+مارکیٹ؟
+
+restaurant nearby?
+ہوٹل قریب؟
+
+open?
+کھلے؟
+
+closed?
+بند؟
+
+ticket?
+ٹکٹ؟
+
+direction?
+جگہ؟
+
+please respond quickly
+براہ کرم فوری جواب دیں
+
+urgent request
+فوری درخواست
+
+follow the signs
+نشان کی پیروی کریں
+
+stay on this road
+اس سڑک پر رہتے ہیں۔
+
+second exit
+دوسرے استعمال شدہ
+
+take a u-turn
+ایک حصّہ ایک تبدیل کرو
+
+after the signal turn right
+اشارے کے بعد
+
+after the bridge turn left
+بائیں طرف
+
+one glass of water please
+پانی کا ایک گلاس براہ کرم
+
+near the shopping mall
+مارکیٹ کے قریب
+
+far from the city center
+شہر سے دور
+
+can i ask for directions?
+میں ہدایات سے پوچھ سکتا ہوں؟
+
+help?
+مدد؟
+
+thank you very much
+شکریہ۔
+
+welcome
+استقبال
+
+please turn left at the next street
+براہ کرم اگلے گلی میں نظر انداز کریں۔
+
+go straight and then turn right
+سیدھے راستے پر ہو
+
+how far is the market from here?
+یہاں سے کتنی دور مارکیٹ ہے۔
+
+reduce the price a bit please
+تھوڑی سی فروخت کرو
+
+what is your final rate?
+آپ کی آخری شرح کیا ہے۔
+
+sir, please speak clearly
+صاحب، براہ کرم بات کریں۔
+
+madam, kindly wait here
+پاگل، انتظار کرو
+
+i need directions to the hospital
+مجھے ہسپتال کی ہدایات کی ضرورت ہے۔
+
+near the bus station
+بس سٹیشن کے قریب
+
+far from the city center
+شہر سے دور
+
+too expensive for me
+میرے لیے بہت مہنگا ہے۔
+
+please give me a discount
+مجھے ایک دن دے
+
+this is my budget
+یہ میرا بجٹ ہے۔
+
+i cannot pay more
+مجھے مزید ادائیگی نہیں کر سکتا۔
+
+please be fair with me
+میرے ساتھ اچھے ہو براہ مہربانی
+
+turn back and follow the signs
+ہاں، تم اُس سے اور اُن کی نشانیوں کی پیروی کرو
+
+keep going straight
+براہ راست
+
+second exit on the roundabout
+دوسرے دور میں غائب ہو گئے
+
+chai please
+وائیرلیس براہ راست
+
+karachi traffic is bad
+بیرونی ٹریفک بہت بری ہے۔
+
+islamabad is beautiful
+ایک خوبصورت منزل ہے۔
+
+i love biryani
+مجھے کرک سے بہت پسند ہے۔
+
+random sentence for testing purpose
+مقصد کے لیے استعمال کی گئی تصویر
+
+the meeting will start at 3 PM
+اجلاس شام تین بجے شروع ہوگی۔
+
+students are studying for exams
+طالبعلموں امتحان کے لیے پڑھ رہے ہیں۔
+
+thank you for your help
+آپ کی مدد کا شکریہ۔
+

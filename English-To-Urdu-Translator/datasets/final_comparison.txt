@@ -1,0 +1,248 @@
+please turn left at the next street
+براہ مہربانی اگلے گلی میں بائیں طرف متوجہ کریں
+براہ کرم اگلے گلی میں نظر انداز کریں۔
+
+go straight and then turn right
+سیدھے راستے پر ہو
+سیدھے راستے پر ہو
+
+how far is the market from here?
+یہاں سے کتنی دور مارکیٹ ہے؟
+یہاں سے کتنی دور مارکیٹ ہے۔
+
+can you reduce the price a little?
+کیا تم تھوڑی سی قیمت لو گے
+کیا تم تھوڑی سی قیمت حاصل کر رہے ہو؟
+
+what is your final rate?
+آپ کی آخری شرح کیا ہے؟
+آپ کی آخری شرح کیا ہے۔
+
+sir, please speak slowly
+صاحب، آہستہ بات کریں
+صاحب، آہستہ بات کریں۔
+
+madam, kindly wait a moment
+پاگل، نرمی سے انتظار کرو
+پاگل، مہربانی سے انتظار کرو
+
+i need directions to the hospital
+مجھے ہسپتال میں ہدایات کی ضرورت ہے
+مجھے ہسپتال کی ہدایات کی ضرورت ہے۔
+
+near the bus station
+بس سٹیشن کے قریب
+بس سٹیشن کے قریب
+
+far from the city center
+شہر سے دُور
+شہر سے دور
+
+too expensive for me
+میرے لئے بہت مہنگا
+میرے لیے بہت مہنگا ہے۔
+
+please give me a discount
+مجھ سے ایک دُوری دے
+مجھے ایک کان دے
+
+this is my budget
+یہ میرا حساب ہے
+یہ میرا بجٹ ہے۔
+
+i cannot pay more
+میں مزید ادائیگی نہیں کر سکتا
+مجھے مزید ادائیگی نہیں کر سکتا۔
+
+please be fair with me
+میرے ساتھ اچھا ہو جاؤ.
+میرے ساتھ اچھے ہو براہ مہربانی
+
+turn back and follow the signs
+مگر جو رُوگردانی کرے اور روشنی بخشنے والی نشانیوں کی پیروی کرے
+ہاں، تم اُس سے اور اُن کی نشانیوں کی پیروی کرو
+
+keep going straight
+آگے بڑھ رہے ہیں
+براہ راست
+
+second exit on the roundabout
+دور دراز پر دوسری مکھی باہر خارج کیا گیا
+دوسرے دور میں غائب ہو گئے
+
+water?
+پانی؟
+پانی؟
+
+wifi?
+ہیری؟
+پاگل؟
+
+help?
+مدد؟
+مدد؟
+
+direction?
+جگہ؟
+جگہ؟
+
+restaurant nearby?
+کیا آپ کو معلوم ہے ؟
+ہوٹل قریب؟
+
+open?
+کھلے؟
+کھلے؟
+
+closed?
+بند کرو؟
+بند؟
+
+price?
+قیمت؟
+قیمت؟
+
+ticket?
+ٹکٹ؟
+ٹکٹ؟
+
+sir, please
+صاحب، براہ مہربانی.
+صاحب، براہ کرم
+
+madam, please
+پاگل، براہ مہربانی
+پاگل، براہ کرم
+
+excuse me
+معاف کیجئے گا
+معاف کیجئے گا
+
+sorry
+معذرت.
+معذرت
+
+kindly wait
+انتظار کریں
+انتظار کریں
+
+please help
+مدد چاہتے ہیں
+مدد چاہتے ہیں
+
+welcome
+کا استقبال
+استقبال
+
+final price
+آخری قیمت
+آخری قیمت
+
+reduce price
+فروخت کے بدلے فروخت
+فروخت کے لیے استعمال
+
+follow the road
+سیدھے راستے پر
+سیدھے راستے کی پیروی
+
+stay on this lane
+اس گلی میں رہو
+اس بلا میں رہو
+
+how near is it?
+یہ کتنا قریب ہے ؟
+یہ کتنا قریب ہے۔
+
+how far is it?
+یہ کتنا دور ہے؟
+یہ کتنا دور ہے۔
+
+please turn back
+دوبارہ بند کریں.
+براہ کرم تبدیل کریں۔
+
+go straight ahead
+آگے بڑھنے کی کوشش کریں
+براہ راست
+
+turn right after the signal
+اشارے کے بعد صحیح رخ تبدیل کریں
+اشارے کے بعد براہ راست تبدیل کریں۔
+
+turn left after the bridge
+پل کے بعد چھوڑ دو
+بچے کے بعد چھوڑ دو
+
+take a u-turn there
+وہاں ایک رکاوٹ اوپر لے لو
+وہاں ایک مشکل لے لو
+
+can you make it cheaper?
+آپ اسے توڑ سکتے ہیں؟
+آپ اسے سست کر سکتے ہیں؟
+
+what is your best price?
+آپ کی بہترین قیمت کیا ہے؟
+آپ کی بہترین قیمت؟
+
+kindly speak clearly
+واضح انداز میں بات کریں
+واضح انداز میں بات کریں
+
+please respond quickly
+براہ مہربانی فوری جواب دیں
+براہ کرم فوری جواب دیں
+
+urgent request
+فوری درخواست
+فوری درخواست
+
+near the mall
+نزدیک
+نزدیک
+
+far from the station
+سٹیشن سے دور
+سٹیشن سے دور
+
+go left
+چھوڑ دو
+چلے گئے
+
+go right
+سیدھے طرف جاؤ
+سیدھے طرف چلو
+
+go straight
+سیدھے راستے پر
+براہ راست
+
+turn back
+منہ پھیرتے ہیں
+نظر انداز کریں۔
+
+final rate please
+آخری نمبر براہ مہربانی
+تکمیل کی تعداد انتظار کریں۔
+
+be reasonable please
+معقول بنیں
+معقول بنیں
+
+sir, kindly help
+صاحب، نرمی سے مدد
+صاحب، مشفقانہ مدد
+
+madam, kindly help
+پاگل، مہربانہ مدد
+پاگل، مشفقانہ مدد
+
+one glass of water please
+پانی کے ایک گلاس براہ مہربانی
+پانی کا ایک گلاس براہ کرم
+
+can i ask for directions?
+میں راہنمائی کے لئے پوچھ سکتا ہوں؟
+میں ہدایات سے پوچھ سکتا ہوں؟
+

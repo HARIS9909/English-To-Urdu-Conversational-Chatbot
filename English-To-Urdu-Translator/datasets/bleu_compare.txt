@@ -1,0 +1,2 @@
+BLEU_base	14.73
+BLEU_finetuned	23.38

@@ -63,3 +63,46 @@ The fine-tuned model is stored locally in:
 
 ---
 
+
+
+## ⚙️ Installation & Usage (CPU Optimized)
+
+Follow these steps to set up the environment and run the translator on your local machine.
+
+### 1 Clone the Repository
+git clone [https://github.com/HARIS9909/English-To-Urdu-Translator.git](https://github.com/HARIS9909/English-To-Urdu-Translator.git)
+cd english-urdu-chatbot
+
+
+### 2 Create & activate virtual environment
+python -m venv .venv
+.venv\Scripts\activate
+
+
+### 3 Install required packages (CPU only)
+python -m pip install --upgrade pip
+python -m pip install transformers sacrebleu sentencepiece streamlit
+python -m pip install torch --index-url https://download.pytorch.org/whl/cpu
+
+### 4 Initialize base Marian model (IMPORTANT – run once)
+
+This step downloads the base Marian model and prepares it for fine-tuning.
+
+python -c "from transformers import AutoTokenizer, AutoModelForSeq2SeqLM; tok=AutoTokenizer.from_pretrained('Helsinki-NLP/opus-mt-en-ur'); mod=AutoModelForSeq2SeqLM.from_pretrained('Helsinki-NLP/opus-mt-en-ur'); tok.save_pretrained('finetuned-opus'); mod.save_pretrained('finetuned-opus')"
+
+### 5 Fine-tune the model (CPU)
+python fine_tune_1300.py
+
+### 6 Run terminal chatbot
+python eng2ur_chatbot.py
+
+### 7 Run Streamlit web app
+streamlit run eng2ur_chatbot.py
+
+### 8 BLEU evaluation
+
+Generate predictions and compute BLEU score:
+
+python -c "import eng2ur_chatbot as c; c.generate_bleu_predictions()"
+python evaluate_bleu.py
+
